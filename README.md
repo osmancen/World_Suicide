@@ -1,4 +1,4 @@
-# World_Suicide Rates
+# World Suicide Rates
 An analysis of WorldBank suicide dataset
 ## An overall summary of the analysis
 - Total suicide numbers are above 110K in 1985 with a steady increase reaching to 250K in early 2000s with a slow decrease afterward but staying above 200K by 2015. 
